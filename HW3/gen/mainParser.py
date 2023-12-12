@@ -30,7 +30,7 @@ def serializedATN():
 
 class mainParser ( Parser ):
 
-    grammarFileName = "main2.g4"
+    grammarFileName = "main.g4"
 
     atn = ATNDeserializer().deserialize(serializedATN())
 
