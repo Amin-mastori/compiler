@@ -1,15 +1,11 @@
-Creating a README file to explain your grammar can be really helpful for anyone who wants to understand or work with it. Here's a template you can use as a starting point:
-
----
-
 # Grammar README
 
 ## Description
 This grammar defines a simple arithmetic expression language with support for addition, subtraction, multiplication, division, assignment, identifiers, and numerical values.
 
 ## Files
-- `grammar_main.g4`: Contains the ANTLR grammar specification.
-- `example_programs/`: Directory containing sample programs showcasing the grammar.
+- `main.g4`: Contains the ANTLR grammar specification.
+- `HW2/gen/`: Directory containing sample programs showcasing the grammar.
 
 ## Structure
 
