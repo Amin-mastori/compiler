@@ -1,7 +1,7 @@
 grammar main;
 
 palindrome
-    : 'z' entry EOF ;
+    :  entry EOF ;
 entry
     : '1' entry '1'
     | '2' entry '2'
